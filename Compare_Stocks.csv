@@ -1,0 +1,2 @@
+Company,Days_Observed,Crosses,True_Positive,False_Positive,True_Negative,False_Negative,Sensitivity,Specificity,Accuracy,TPR,FPR
+historical_data,6021,1490,266,523,521,180,0.5964125560538116,0.4990421455938697,0.5281879194630873,0.5964125560538116,0.5009578544061303
